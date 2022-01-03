@@ -1,3 +1,12 @@
+# Higher-Order Components (HOCs) 
+
+HOC is a function that takes a component as a parameter
+and returns a new component wrapping the given component
+and "supercharging" it by giving it some extra abilities
+In other words, HOCs are a way to reuse components in a functional way.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
